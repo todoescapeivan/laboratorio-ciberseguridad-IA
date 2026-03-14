@@ -26,3 +26,19 @@ La IA explica qué significan los hallazgos, clasifica riesgos y genera recomend
 - Configurar headers de seguridad.
 - Restringir directorios sensibles.
 - Implementar WAF.
+# Reporte del Laboratorio 2: Escaneo Web
+
+## Hallazgos
+- Puertos 80 y 443 abiertos.
+- Servidor Apache 2.4.x detectado.
+- Vulnerabilidades reportadas por Nikto.
+
+## Interpretación con IA
+- Riesgo: exposición de servicios web sin protección.
+- Impacto: ataques XSS, directory listing, falta de headers.
+- Recomendación: aplicar parches, configurar seguridad, usar WAF.
+
+## Mitigación
+- Actualizar servidor.
+- Configurar headers de seguridad.
+- Restringir accesos.
