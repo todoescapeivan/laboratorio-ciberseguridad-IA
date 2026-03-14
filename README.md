@@ -32,3 +32,16 @@ El enfoque es **didáctico y reproducible**, pensado para que cualquier persona 
 
 Este repositorio es un recurso abierto y educativo.  
 La integración de IA convierte cada práctica en un proyecto completo: técnico, interpretativo y documentado.
+
+## 📂 Estructura del repositorio
+laboratorio-ciberseguridad-IA/
+ ├── labs/
+ │    └── lab1_smb_enumeration.md
+ ├── scripts/
+ │    └── ejemplo_script.sh
+ ├── reports/
+ │    └── lab1_report.md
+ ├── guides/
+ │    └── instalacion_laboratorio.md
+ └── README.md
+
